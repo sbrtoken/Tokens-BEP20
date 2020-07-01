@@ -1,7 +1,3 @@
-# Vanilla configuration
-# Start with a minimal configuration that you can customize to build your code
-# http://superblocks.com/docs/configuration/configuration-introduction/#section=configuration
-
 // We will be using Solidity version 0.5.4
 pragma solidity 0.5.4;
 // Importing OpenZeppelin's SafeMath Implementation
